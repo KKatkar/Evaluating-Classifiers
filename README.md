@@ -3,7 +3,7 @@ Compare the performances of different classifiers on a dataset. <br>
 
 #### Dataset: Historic Loan dataset <br>
 #### Objective: Predict if loan will be paid off or defaulted for unseen data <br>
-###Classifiers used: <br>
+### Classifiers used: <br>
 <ul>
 <li> kNN
 <li> Decision Tree
